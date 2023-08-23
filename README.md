@@ -6,7 +6,7 @@
 
 <hr/>
 
-## Cada tutorial possue sua branch
+## Cada tutorial possui sua branch
 - Você deve selecionar ou buscar branch/tutorial que deseja.
 ![branchs](https://i.imgur.com/jXEEeYq.png)
 
